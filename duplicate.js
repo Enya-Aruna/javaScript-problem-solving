@@ -13,4 +13,8 @@ function removeDuplicate(names){
 }
 
 const uniqueName = removeDuplicate(nameList);
-console.log(uniqueName)
+//console.log(uniqueName)
+
+const school = 'salma islam' ;
+const langthofstring = school.length ;
+console.log(langthofstring)
